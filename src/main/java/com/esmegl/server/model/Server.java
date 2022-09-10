@@ -1,4 +1,4 @@
-package esmegl.server.model
+package esmegl.server.model;
 
 import esmegl.server.enumeration.Status;
 
