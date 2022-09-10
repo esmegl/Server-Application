@@ -12,6 +12,8 @@ import javax.persistence.Id;
 import javax.persistence.Column;
 import javax.validation.constraints.NotEmpty;
 
+// import java.lang.String;
+
 import static javax.persistence.GenerationType.AUTO;
 
 @Entity

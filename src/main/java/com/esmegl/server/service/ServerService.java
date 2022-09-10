@@ -1,6 +1,7 @@
 package esmegl.server.service;
 
 import import esmegl.server.model.Server;
+import java.lang.Boolean;
 
 import java.util.Collection;
 
